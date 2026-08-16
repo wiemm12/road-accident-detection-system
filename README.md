@@ -26,15 +26,11 @@ This project combines **embedded systems, IoT communication, GPS/GSM technologie
 
 ## Hardware Prototype
 
-### Project Enclosure
-
-<img src="docs/images/project-case.jpg" alt="Project Enclosure" width="320">
 
 ### Internal Electronics
 
-<img src="docs/images/project-board.jpg" alt="Project Board" width="320">
-<img src="docs/images/project-inside.jpg" alt="Project Inside View" width="320">
-<img src="docs/images/project-side.jpg" alt="Project Side View" width="320">
+<img src="docs/images/box.jpg" alt="Project Board" width="320">
+<img src="docs/images/detect accident.jpg" alt="Project Inside View" width="320">
 
 This prototype integrates the embedded electronics inside a custom enclosure.  
 The hardware includes the **ESP32 LILYGO TTGO**, **SIM800L**, **accelerometer**, and **GPS-related connectivity**.
@@ -45,13 +41,13 @@ The hardware includes the **ESP32 LILYGO TTGO**, **SIM800L**, **accelerometer**,
 
 ### Emergency SMS Alert
 
-<img src="docs/images/sms-alert.jpg" alt="SMS Alert Example" width="300">
+<img src="docs/images/sms.jpg" alt="SMS Alert Example" width="300">
 
 The system sends an emergency SMS containing the accident alert and a **Google Maps location link** to help responders identify the accident location quickly.
 
 ### Mobile Application Interface
 
-<img src="docs/images/mobile-app-form.jpg" alt="Mobile App Interface" width="300">
+<img src="docs/images/flutter mobile app.jpg" alt="Mobile App Interface" width="300">
 
 The mobile application provides a user interface for entering user-related information and interacting with the system.
 
