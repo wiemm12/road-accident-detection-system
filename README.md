@@ -87,10 +87,6 @@ When an accident is detected, these coordinates are used to generate a location 
 
 # Mobile Application
 
-<p align="center">
-  <img src="flutter%20mobile%20app.jpg" alt="Flutter Mobile Application" width="300">
-</p>
-
 A **Flutter mobile application** was developed as part of the system.
 
 The application allows the user to manage information that may be useful during an emergency, such as:
